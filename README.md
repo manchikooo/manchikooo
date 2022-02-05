@@ -3,7 +3,7 @@
 #### I am React Frontend Developer
 
  <p align="left"><img src="https://samurai.it-incubator.by/static/media/cat-avatar.d04271ed.gif" width="100" height="100" alt="kitten with paws"/></p>
-<p>I wants to make the world a better place</p>
+<p>I wants to make the world a better place ✌🏻</p>
 
 ### Skills:
 
