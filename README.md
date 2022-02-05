@@ -2,12 +2,12 @@
 
 #### I am React Frontend Developer
 
- <p align="center"><img src="https://samurai.it-incubator.by/static/media/cat-avatar.d04271ed.gif" width="100" height="100" alt="kitten with paws"/></p>
+ <p align="left"><img src="https://samurai.it-incubator.by/static/media/cat-avatar.d04271ed.gif" width="100" height="100" alt="kitten with paws"/></p>
 <p>I wants to make the world a better place</p>
 
 ### Skills:
 
-<div align="center">
+<div align="left">
 <img alt="React" src="https://img.shields.io/badge/-react-282C34?style=for-the-badge&amp;logo=react"/>
 <img alt="Redux" src="https://img.shields.io/badge/-redux-282C34?style=for-the-badge&amp;logo=redux&amp;logoColor=6F3FB3"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-282C34?style=for-the-badge&amp;logo=typescript"/>
@@ -25,10 +25,10 @@
 
 ### Contact me:
 
-[<img alt="Telegram" src="https://img.shields.io/badge/-telegram-00A8E6?style=for-the-badge&amp;logo=telegram"/>](https://t.me/izhelich)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&amp;logo=linkedin"/>](https://www.linkedin.com/in/vladislav-izhelya/)
-[<img alt="Vkontakte" src="https://img.shields.io/badge/-vkontakte-0076FE?style=for-the-badge&amp;logo=vk"/>](https://vk.com/manchikooo)
-[<img alt="Twitter" src="https://img.shields.io/badge/-twitter-00A4F9?style=for-the-badge&amp;logo=twitter&amp;logoColor=F5F5F5"/>](https://twitter.com/_Manchiko)
-[<img alt="Instagram" src="https://img.shields.io/badge/-instagram-282C34?style=for-the-badge&amp;logo=instagram&amp;logoColor=B03B96"/>](https://www.instagram.com/manchikooo/)
+[![Telegram](https://img.shields.io/badge/-telegram-00A8E6?style=for-the-badge&logo=telegram)](https://t.me/izhelich)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladislav-izhelya/)
+[![Vkontakte](https://img.shields.io/badge/-vkontakte-0076FE?style=for-the-badge&logo=vk)](https://vk.com/manchikooo)
+[![Twitter](https://img.shields.io/badge/-twitter-00A4F9?style=for-the-badge&logo=twitter&logoColor=F5F5F5)](https://twitter.com/_Manchiko)
+[![Instagram](https://img.shields.io/badge/-instagram-282C34?style=for-the-badge&logo=instagram&logoColor=B03B96)](https://www.instagram.com/manchikooo/)
 
 
