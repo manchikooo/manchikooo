@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vladislav
 
-#### I am React Frontend Developer
+#### I am Frontend Developer
 
  <p align="left"><img src="https://samurai.it-incubator.by/static/media/cat-avatar.d04271ed.gif" width="100" height="100" alt="kitten with paws"/></p>
 <p>I want to make the world a better place ✌🏻</p>
