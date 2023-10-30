@@ -28,7 +28,6 @@
 [![Telegram](https://img.shields.io/badge/-telegram-00A8E6?style=for-the-badge&logo=telegram)](https://t.me/izhelich)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0273B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vladislav-izhelya/)
 [![Vkontakte](https://img.shields.io/badge/-vkontakte-0076FE?style=for-the-badge&logo=vk)](https://vk.com/manchikooo)
-[![Twitter](https://img.shields.io/badge/-twitter-00A4F9?style=for-the-badge&logo=twitter&logoColor=F5F5F5)](https://twitter.com/_Manchiko)
 [![Instagram](https://img.shields.io/badge/-instagram-282C34?style=for-the-badge&logo=instagram&logoColor=B03B96)](https://www.instagram.com/manchikooo/)
 
 
